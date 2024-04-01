@@ -1,3 +1,4 @@
+// ex01
 class Customer{
     firstName:string;
     lastName:string;
